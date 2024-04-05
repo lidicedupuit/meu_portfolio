@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
-export const List = styled.ul`
-  display: grid;
+export const Lista = styled.ul`
+  display: grind;
   grid-template-columns: 1fr 1fr;
   column-gap: 36px;
   row-gap: 40px;
